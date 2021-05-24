@@ -1,2 +1,1 @@
-# Shutdown.py
-yeah, just turn off your PC in python
+Yeah, this programm shutdowns your pc, as an executable or Python file.
